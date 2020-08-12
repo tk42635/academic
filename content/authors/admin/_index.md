@@ -38,6 +38,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-De Huo
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+De Huo is a M.S. student majoring in Computer Science at the University of Southern California. He received Bachelor’s degree in Engineering Mechanics from Beihang University in China. De worked for Institute of Automation, Chinese Academy of Sciences (CASIA) as a Programming Intern in 2019, responsible for video stabilization and accelerating neural network on mobile platforms. Priorly, he was a research assistant of Institute of Automation and Control at Beihang University in 2017, participating in developing UAV control algorithm. De had rich experience in development of computer vision and automation control algorithms. He ever won the championship with team in Design Competition in Program of Aerospace Design United Courses in 2017 and won The Second Prize of the "Feng Ru Cup" Competition of Innovation in 2017 and in 2018 respectively. Besides solid foundation of mathematics and probability theory, he is familiar with C/C++, Java, JavaScript, HTML/CSS, as well as many popular libraries and tools including Git, NCNN, Mobile AI Engine, etc. His current research interests include visual odometry and moving object detection. Interdisciplinary internships and projects in robotics and deep learning make him proficient in tackling engineering problems.
