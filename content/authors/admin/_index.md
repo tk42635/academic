@@ -19,15 +19,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
     link: https://github.com/tk42635
   - link: https://www.linkedin.com/in/derichuo/
     icon_pack: fab
-    icon: <i class="fab fa-linkedin"></i>
+    icon: linkedin
 education:
   courses:
     - course: PhD in Artificial Intelligence
