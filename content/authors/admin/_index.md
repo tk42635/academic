@@ -3,8 +3,8 @@ title: De Huo
 role: M.S student in Computer Science
 avatar_filename: download.png
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Southern California
+    url: www.usc.com
 superuser: true
 authors:
   - admin
@@ -19,12 +19,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/tk42635
   - link: https://www.linkedin.com/in/derichuo/
     icon_pack: fab
     icon: linkedin
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/tk42635
 education:
   courses:
     - course: PhD in Artificial Intelligence
