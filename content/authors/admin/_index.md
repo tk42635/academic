@@ -27,15 +27,12 @@ social:
     link: https://github.com/tk42635
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Computer Science
+      institution: University of Southern California
+      year: ""
+    - course: B.Eng in Engineering Mechanics
+      institution: Beihang University
+      year: ""
 email: ""
 user_groups:
   - Researchers
