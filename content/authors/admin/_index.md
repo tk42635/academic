@@ -1,6 +1,6 @@
 ---
 title: De Huo
-role: Master student at the University of Southern California
+role: M.S student in Computer Science
 avatar_filename: download.png
 organizations:
   - name: Stanford University
@@ -43,7 +43,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+De Huo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
