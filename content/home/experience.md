@@ -48,4 +48,5 @@ date_format = "Jan 2006"
   * Developed fast multi-thread video stabilization algorithms based on Kalman Filter, Gaussian Filter and Visual Odometry and benchmarked algorithms with PSNR and MAE metrics.
   * Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.
 
+  """
 +++
