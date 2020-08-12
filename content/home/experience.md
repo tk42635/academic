@@ -49,4 +49,20 @@ date_format = "Jan 2006"
   * Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.
 
   """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Institute of Automation and Control, Beihang University"
+  company_url = "http://www.nlpr.ia.ac.cn/en/"
+  location = "Beijing"
+  date_start = "2019-03-20"
+  date_end = "2019-07-01"
+  description = """
+  Responsibilities include:
+  
+  * Researched on omni-directional copters to decouple the relation between multi-copters’ posture and movement.
+  * Proposed collectively a novel flight control algorithm based on quarternion theory and 8 spatial vectors.
+  * Achieved highly-precise indoor localization and long-time spot hovering without floating by using Pozyx platform.
+
+  """
 +++
