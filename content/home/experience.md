@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Software Engineer Intern"
+  company = "Semio"
+  company_url = "https://semio.ai/"
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2020-05"
+  date_end = "2020-08"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Tracked and visualized body part motion trajectory in decaying pattern with Dynamic-Reconfiguration in ROS.
+  * Processed THÖR dataset to display multiple moving persons’ 3D point cloud and head orientation in real time.
+  * Reproduced part work of Bayesian Estimator for Partial Trajectory Alignment to train a model for behavior recognition.
+
   """
 
 [[experience]]
