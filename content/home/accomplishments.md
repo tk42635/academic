@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]u
+[[item]]
   organization = "USC Viterbi School of Engineering"
   organization_url = "https://viterbischool.usc.edu/"
   title = "Completion of the USC Viterbi Startup Garage Program"
