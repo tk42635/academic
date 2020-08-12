@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Semio"
   company_url = "https://semio.ai/"
   location = "California"
-  date_start = "2020-05"
-  date_end = "2020-08"
+  date_start = "May 2020"
+  date_end = "Aug 2020"
   description = """
   Responsibilities include:
   
