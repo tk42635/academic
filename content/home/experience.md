@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Software Engineer Intern"
   company = "Semio"
   company_url = "https://semio.ai/"
-  location = "California"
-  date_start = "May 2020"
-  date_end = "Aug 2020"
+  location = "Los Angeles"
+  date_start = "2020-05-01"
+  date_end = "2020-08-21"
   description = """
   Responsibilities include:
   
@@ -34,12 +34,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer Intern"
+  company = "National Laboratory of Pattern Recognition, CASIA"
+  company_url = "http://www.nlpr.ia.ac.cn/en/"
+  location = "Beijing"
+  date_start = "2019-03-20"
+  date_end = "2019-07-01"
+  description = ""
+  Responsibilities include:
+  
+  * Implemented inference process of neural networks in C++ and improved executing efficiency by using Mobile AI Engine.
+  * Accelerated neural networks on mobile platforms and ARMs such as RK3399 and Raspberry Pi.
+  * Developed fast multi-thread video stabilization algorithms based on Kalman Filter, Gaussian Filter and Visual Odometry and benchmarked algorithms with PSNR and MAE metrics.
+  * Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.
 
 +++
