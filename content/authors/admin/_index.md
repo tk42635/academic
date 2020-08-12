@@ -1,6 +1,6 @@
 ---
 title: De Huo
-role: M.S in Computer Science
+role: M.S. in Computer Science
 avatar_filename: download.png
 organizations:
   - name: University of Southern California
