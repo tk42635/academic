@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Institute of Automation and Control, Beihang University"
-  company_url = "http://www.nlpr.ia.ac.cn/en/"
+  company_url = "http://asee.buaa.edu.cn/"
   location = "Beijing"
   date_start = "2019-03-20"
   date_end = "2019-07-01"
