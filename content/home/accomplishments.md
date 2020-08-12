@@ -28,24 +28,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]u
+  organization = "USC Viterbi School of Engineering"
+  organization_url = "https://viterbischool.usc.edu/"
+  title = "Completion of the USC Viterbi Startup Garage Program"
+  url = "https://sites.google.com/view/viterbi-startup-garage/home"
+  certificate_url = "https://drive.google.com/file/d/1siio4FvLp_Terg2xQJ-pIHiOV6HTKkiM/view?usp=sharing"
+  date_start = "2020-05-01"
+  date_end = "2020-07-01"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
+  organization = "Education Managment Information Center, The Ministry of Education, PRC"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Completion of National Computer Aided Application Training"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "20181216042541129.pdf"
+  date_start = "2016-06-23"
+  date_end = ""
   description = ""
 
 +++
