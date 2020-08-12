@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2019-03-20"
   date_end = "2019-07-01"
-  description = ""
+  description = """
   Responsibilities include:
   
   * Implemented inference process of neural networks in C++ and improved executing efficiency by using Mobile AI Engine.
