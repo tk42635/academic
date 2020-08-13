@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "10px", "0"]
+  padding = ["30px", "0", "30px", "0"]
 [[item]]
   organization = "Beihang University"
   organization_url = "https://ev.buaa.edu.cn/"
