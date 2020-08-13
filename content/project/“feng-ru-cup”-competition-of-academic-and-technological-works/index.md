@@ -8,7 +8,7 @@ authors:
 tags:
   - C++
   - ArduPilot
-external_link: https://github.com/tk42635/Weakly-Supervised-TemporalSegmentationn
+external_link: https://derichuo.com/project/feng-ru-cup-competition-of-academic-and-technological-works/
 image:
   filename: featured
   focal_point: Smart
