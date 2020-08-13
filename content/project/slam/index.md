@@ -1,11 +1,30 @@
 ---
-title: Slam
+title: Software Quality Analyzation and Visualization
 date: 2020-08-12T09:44:40.617Z
-draft: false
+summary: >-
+  * Visualized quality data along certain software development history based on
+  different metrics through React framework.
+
+  * Designed several interactive modules for users to acquire and understand data easily.
+
+    [\[website]](www.squaad.com)
+draft: true
 featured: true
-external_link: https://github.com/tk42635
+authors:
+  - Pooyang Behnamghader
+  - De Huo
+  - etc.
+tags:
+  - JavaScript
+  - HTML
+  - React
+  - Docker
+external_link: https://derichuo.com/
+links:
+  - url: www.squaad.com
+    name: website
 image:
-  filename: featured
-  focal_point: Smart
-  preview_only: true
+  filename: squaad2.png
+  focal_point: ""
+  preview_only: false
 ---
