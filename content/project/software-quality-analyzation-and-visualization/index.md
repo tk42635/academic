@@ -17,7 +17,7 @@ links:
   - url: https://www.squaadweb.com
     name: website
 image:
-  filename: squaad2.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
