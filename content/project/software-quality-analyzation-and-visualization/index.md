@@ -22,6 +22,4 @@ image:
   preview_only: false
 ---
 * Visualized quality data along certain software development history based on different metrics through React framework.
-* Designed several interactive modules for users to acquire and understand data easily. 
-
-  [\[website]](<* www.squaadweb.com>)
+* Designed several interactive modules for users to acquire and understand data easily.
