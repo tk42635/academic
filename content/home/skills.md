@@ -61,9 +61,9 @@ subtitle = ""
 
 **Programming Languages:** C/C++, Java, JavaScript, JSX, Python, HTML/CSS, Unix Shell, SQL.
 
-**Tools & Libraries:** ROS, PyTorch, OpenCV, RTAB-MAP, ORB-SLAM, ArduPilot, PX4, Git, Docker, React, MySQL.
+**Tools & Libraries:** ROS, PyTorch, OpenCV, OpenMP, PCL, RTAB-MAP, ORB-SLAM, ArduPilot, PX4, Git, Docker, React, MySQL.
 
-**Others: Numerical** Integration and Differentiation, Embedded System Control, Dynamics Simulation.
+**Others:** Numerical Integral and Differential, Embedded System Control, Dynamics Analysis and Simulation(Adams, Fluent).
 
 
 
