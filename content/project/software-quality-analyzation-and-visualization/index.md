@@ -12,16 +12,16 @@ tags:
   - HTML
   - React
   - Docker
-external_link: www.squaadweb.com
+external_link: https://derichuo.com/project/software-quality-analyzation-and-visualization/
 links:
-  - url: www.squaadweb.com
+  - url: https://www.squaadweb.com
     name: website
 image:
   filename: squaad2.png
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 ---
 * Visualized quality data along certain software development history based on different metrics through React framework.
 * Designed several interactive modules for users to acquire and understand data easily. 
 
-  [\[website]](www.squaadweb.com)
+  [\[website]](<* www.squaadweb.com>)
