@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Education Managment Information Center, The Ministry of Education, PRC"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "http://en.moe.gov.cn/"
   title = "Completion of National Computer Aided Application Training"
   url = ""
   certificate_url = "https://derichuo.com/files/20181216042541129.pdf"
