@@ -49,7 +49,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
+  padding = ["10px", "0", "10px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -59,28 +59,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Programming Languages: C/C++, Java, JavaScript, JSX, Python, HTML/CSS, Unix Shell, SQL.
+**Programming Languages:** C/C++, Java, JavaScript, JSX, Python, HTML/CSS, Unix Shell, SQL.
 
-Tools & Libraries: ROS, PyTorch, OpenCV, RTAB-MAP, ORB-SLAM, ArduPilot, PX4, Git, Docker, React, MySQL.
+**Tools & Libraries:** ROS, PyTorch, OpenCV, RTAB-MAP, ORB-SLAM, ArduPilot, PX4, Git, Docker, React, MySQL.
 
-Others: Numerical Integration and Differentiation, Embedded System Control, Dynamics Simulation.
+**Others: Numerical** Integration and Differentiation, Embedded System Control, Dynamics Simulation.
 
 
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
-
-# +++
