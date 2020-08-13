@@ -6,6 +6,7 @@ featured: false
 authors:
   - De Huo
   - Yanxuan Lv
+  - Zuxin Liu
 tags:
   - C++
   - SLAM
