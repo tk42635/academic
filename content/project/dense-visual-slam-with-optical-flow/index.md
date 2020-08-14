@@ -18,7 +18,7 @@ links:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 * Conducted research on dense stereo SLAM in dynamic surroundings with RTAB-MAP on the basis of Visual Odometry.
 * Added Optical Flow as well as YOLO for auxiliary support to detect moving objects in frames and ruled them out when extracting feature points and mapping.
