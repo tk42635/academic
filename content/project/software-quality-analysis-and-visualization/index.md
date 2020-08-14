@@ -14,7 +14,7 @@ tags:
   - Docker
 external_link: https://derichuo.com/#project
 links:
-  - url: www.squaadweb.com
+  - url: https://www.squaadweb.com
     name: website
 image:
   filename: featured.png
