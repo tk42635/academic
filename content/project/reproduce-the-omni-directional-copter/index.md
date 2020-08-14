@@ -13,7 +13,7 @@ tags:
   - Ardupilot
   - Quarternion
   - Embedded Development
-external_link: https://derichuo.com/#project
+external_link: https://derichuo.com/project
 links:
   - url: https://github.com/tk42635/OmniCopter
     name: code
