@@ -22,6 +22,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* Participated in imitating an omni-directional copter based on Raff D’Andrea’s omnicopter demonstrated in TED talks.
+* Participated in imitating an omni-directional copter based on Raff D’Andrea’s [omnicopter](http://flyingmachinearena.org/wp-content/publications/2016/breIEEE16.pdf) demonstrated in TED talks and other [videos](https://www.youtube.com/watch?v=sIi80LMLJSY).
 * Improved spot hovering accuracy and moving precision by using Pozyx indoor localization system.
 * Highly admired by [Prof. Shaoping Wang](https://ev.buaa.edu.cn/info/1057/1261.htm), The Yangtze River Scholar.
