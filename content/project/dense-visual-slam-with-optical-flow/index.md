@@ -1,7 +1,7 @@
 ---
 title: Dense Visual SLAM with Optical Flow and YOLO
 date: 2020-08-13T00:30:28.773Z
-draft: true
+draft: false
 featured: true
 authors:
   - De Huo
