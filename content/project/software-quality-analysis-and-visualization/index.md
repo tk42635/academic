@@ -12,7 +12,7 @@ tags:
   - HTML
   - React
   - Docker
-external_link: https://derichuo.com/project
+external_link: https://derichuo.com/project/software-quality-analysis-and-visualization/
 links:
   - url: https://www.squaadweb.com
     name: website
