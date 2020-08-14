@@ -24,3 +24,4 @@ image:
 ---
 * Participated in imitating an omni-directional copter based on Raff D’Andrea’s omnicopter demonstrated in TED talks.
 * Improved spot hovering accuracy and moving precision by using Pozyx indoor localization system.
+* Highly admired by Prof. Shaoping Wang, The Yangtze River Scholar.
