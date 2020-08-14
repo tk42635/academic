@@ -11,7 +11,7 @@ tags:
   - PyTorch
   - HMM
   - Clustering
-external_link: https://derichuo.com/project
+external_link: https://derichuo.com/project/temporal-segmentation-of-actions-in-videos/
 links:
   - name: code
     url: https://github.com/tk42635/Weakly-Supervised-TemporalSegmentationn
