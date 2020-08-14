@@ -3,6 +3,10 @@ title: Software Quality Analysis and Visualization
 date: 2020-08-14T00:11:10.080Z
 draft: false
 featured: true
+authors:
+  - Pooyan Behnamghader
+  - De Huo
+  - etc.
 tags:
   - JavaScript
   - HTML
