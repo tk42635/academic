@@ -9,6 +9,7 @@ authors:
   - Zuxin Liu
 tags:
   - C++
+  - OpenCV
   - SLAM
   - ROS
 external_link: https://derichuo.com/project/dense-visual-slam-with-optical-flow
