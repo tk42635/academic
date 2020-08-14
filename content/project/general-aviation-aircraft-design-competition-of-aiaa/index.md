@@ -3,6 +3,10 @@ title: General Aviation Aircraft Design Competition of AIAA
 date: 2020-08-14T09:14:08.762Z
 draft: false
 featured: true
+tags:
+  - CAD/CAE
+  - Dynamics Analysis
+  - Aircraft Design
 external_link: https://derichuo.com/project/general-aviation-aircraft-design-competition-of-aiaa
 links:
   - url: https://derichuo.com/files/AIAA report.pdf
