@@ -1,7 +1,7 @@
 ---
 title: Dense Visual SLAM with Optical Flow and YOLO
 date: 2020-08-13T00:30:28.773Z
-draft: false
+draft: true
 featured: true
 authors:
   - De Huo
@@ -18,7 +18,7 @@ links:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 * Conducted research on dense stereo SLAM in dynamic surroundings with RTAB-MAP on the basis of Visual Odometry.
 * Added Optical Flow as well as YOLO for auxiliary support to detect moving objects in frames and ruled them out when extracting feature points and mapping.
