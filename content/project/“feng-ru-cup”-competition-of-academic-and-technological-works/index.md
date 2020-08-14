@@ -8,7 +8,7 @@ authors:
 tags:
   - C++
   - ArduPilot
-external_link: https://derichuo.com/project/feng-ru-cup-competition-of-academic-and-technological-works/
+external_link: https://derichuo.com/project/
 image:
   filename: featured.png
   focal_point: Smart
