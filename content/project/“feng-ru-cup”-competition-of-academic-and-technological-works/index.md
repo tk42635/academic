@@ -10,7 +10,7 @@ tags:
   - ArduPilot
 external_link: https://derichuo.com/project/feng-ru-cup-competition-of-academic-and-technological-works/
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
