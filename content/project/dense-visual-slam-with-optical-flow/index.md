@@ -12,7 +12,7 @@ tags:
   - OpenCV
   - SLAM
   - ROS
-external_link: https://derichuo.com/project/
+external_link: https://derichuo.com/#project
 links:
   - url: https://drive.google.com/file/d/1IDgUCZhH0hJ0CN38UUguj7FwWBmMMv4X/view?usp=sharing
     name: video
