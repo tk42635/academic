@@ -8,7 +8,7 @@ authors:
 tags:
   - C++
   - ArduPilot
-external_link: https://derichuo.com/project/
+external_link: https://derichuo.com/#project
 image:
   filename: featured.png
   focal_point: Smart
