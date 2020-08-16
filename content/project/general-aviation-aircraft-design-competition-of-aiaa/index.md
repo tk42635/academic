@@ -24,3 +24,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+A team-work project intended for AIAA 2018 General Aviation Aircraft Design Competition, is accomplished by DT212 team of PADUC and is supervised by Chi Zhang<sup>*1*</sup>, Chen Huang<sup>*1*</sup> and Hu Liu<sup>*2*</sup>.
+
+
+
+<sup>*1*</sup> Commercial Aircraft Corporation of China, Ltd.
+
+<sup>*2*</sup> School of Aeronautic Science and Engineering, Beihang University
