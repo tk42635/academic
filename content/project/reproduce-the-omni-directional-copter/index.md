@@ -18,7 +18,7 @@ links:
   - url: https://github.com/tk42635/OmniCopter
     name: code
   - name: video
-    url: https://drive.google.com/file/d/1FupFE1lbeLApyG5-XWac1EYwxu9RJQc6/view?usp=sharing
+    url: https://drive.google.com/file/d/1Oi1adEjsDq1QeVxqIp2bqcOQUn1MyRMy/view?usp=sharing
   - name: slides
     url: https://derichuo.com/files/OmniDrone.pdf
 image:
