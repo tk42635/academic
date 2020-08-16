@@ -38,9 +38,9 @@ user_groups:
   - Researchers
   - Visitors
 ---
-De Huo is a M.S. student majoring in Computer Science at the University of Southern California. He received a Bachelor’s degree in Engineering Mechanics from Beihang University. 
+De Huo is a M.S. student majoring in Computer Science at the University of Southern California. He received a Bachelor’s Degree in Engineering Mechanics from Beihang University. 
 
-De worked for Semio, a Los Angeles-based robotics company, as a Software Engineer Intern in 2020 summer. He was also a Programming Intern at Institute of Automation, Chinese Academy of Sciences (CASIA) in 2019. Priorly, he conducted research at Institute of Automation and Control, Beihang University in 2017. 
+De worked for Semio, a Los Angeles-based robotics company, as a Software Engineer Intern in 2020 summer. He was also a Programming Intern at Institute of Automation, Chinese Academy of Sciences (CASIA) in 2019. Previously, he conducted research at Institute of Automation and Control, Beihang University in 2017. 
 
 He won the championship with team in Design Competition in Program of Aerospace Design United Courses in 2017 and won The Second Prize of the "Feng Ru Cup" Competition of Innovation in 2017 and in 2018 respectively. 
 
