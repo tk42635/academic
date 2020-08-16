@@ -17,8 +17,12 @@ external_link: https://derichuo.com/project/reproduce-the-omni-directional-copte
 links:
   - url: https://github.com/tk42635/OmniCopter
     name: code
+  - name: video
+    url: https://drive.google.com/file/d/1FupFE1lbeLApyG5-XWac1EYwxu9RJQc6/view?usp=sharing
+  - name: slides
+    url: https://derichuo.com/files/OmniDrone.pdf
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
