@@ -1,5 +1,5 @@
 ---
-title: General Aviation Aircraft Design Competition of AIAA
+title: " Hybrid-Electric General Aviation Design Competition of AIAA"
 date: 2020-08-14T09:14:08.762Z
 draft: false
 featured: true
@@ -24,7 +24,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A team-work project intended for AIAA 2018 General Aviation Aircraft Design Competition, is accomplished by DT212 team of PADUC and is supervised by Chi Zhang<sup>*1*</sup>, Chen Huang<sup>*1*</sup> and Hu Liu<sup>*2*</sup>.
+A comprehensive team-work project intended for [AIAA](https://www.aiaa.org/get-involved/students-educators/Design-Competitions#Design_Competitions) 2018 Hybrid-Electric General Aviation Design Competition, was accomplished by DT212 team of PADUC and was supervised by Chi Zhang<sup>*1*</sup>, Chen Huang<sup>*1*</sup> and Hu Liu<sup>*2*</sup>.
 
 
 
