@@ -28,6 +28,6 @@ A comprehensive team-work project intended for [AIAA](https://www.aiaa.org/get-i
 
 
 
-<sup>*1*</sup> Commercial Aircraft Corporation of China, Ltd.
+<sup>*1*</sup> *Commercial Aircraft Corporation of China, Ltd.*
 
-<sup>*2*</sup> School of Aeronautic Science and Engineering, Beihang University
+<sup>*2*</sup> *School of Aeronautic Science and Engineering, Beihang University*
