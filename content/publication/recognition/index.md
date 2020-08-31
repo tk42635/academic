@@ -1,6 +1,6 @@
 ---
 title: ""
-# authors:
+ authors: ""
 #  - admin
 date: ""
 doi: ""
