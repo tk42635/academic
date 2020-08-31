@@ -71,7 +71,7 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 +++
-<b>
+
 * The Second Prize of Beihang University Physics Tournament  
 -	The Second Prize of the 27th "Feng Ru Cup" Competition of Innovation  
 *	The Second Prize of the 27th "Feng Ru Cup" Competition of Academic and Technological Works  
@@ -87,5 +87,5 @@ subtitle = ""
 *	2017-2018 Technological Innovation Scholarship  
 -	2017-2018 Social Work Scholarship  
 *	2017-2018 Merit Student
-<b>
+
 
