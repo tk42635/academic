@@ -1,7 +1,7 @@
 ---
 title: ""
-authors:
-- admin
+# authors:
+#  - admin
 date: ""
 doi: ""
 
@@ -21,23 +21,38 @@ publication_short: ""
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 	The Second Prize of Beihang University Physics Tournament  
+	The Second Prize of the 27th "Feng Ru Cup" Competition of Innovation  
+	The Second Prize of the 27th "Feng Ru Cup" Competition of Academic and Technological Works                            
+	2016-2017 School Excellent Student Cadres of Beihang University  
+	Outstanding Performance in 2017 Summer Social Practice of Beihang University  
+	2016-2017 Learning Excellence Scholarship  
+	2016-2017 Social Practice Scholarship  
+	2016-2017 Social Work Scholarship  
+	2016-2017 Subject Competition Scholarship  
+	The Second Prize of the 28th "Feng Ru Cup" Competition of Academic and Technological Works  
+	2017-2018 Champion of Design Competition in Program of Aerospace Design United Courses (PADUC)  
+	2017-2018 Learning Excellence Scholarship  
+	2017-2018 Technological Innovation Scholarship  
+	2017-2018 Social Work Scholarship  
+	2017-2018 Merit Student  
+
 
 tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: Custom Link
+#  url: http://example.org
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
