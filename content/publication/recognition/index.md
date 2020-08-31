@@ -21,7 +21,7 @@ publication_short: ""
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: 	The Second Prize of Beihang University Physics Tournament  
+summary: """	The Second Prize of Beihang University Physics Tournament  
 	The Second Prize of the 27th "Feng Ru Cup" Competition of Innovation  
 	The Second Prize of the 27th "Feng Ru Cup" Competition of Academic and Technological Works                            
 	2016-2017 School Excellent Student Cadres of Beihang University  
@@ -35,7 +35,7 @@ summary: 	The Second Prize of Beihang University Physics Tournament
 	2017-2018 Learning Excellence Scholarship  
 	2017-2018 Technological Innovation Scholarship  
 	2017-2018 Social Work Scholarship  
-	2017-2018 Merit Student  
+	2017-2018 Merit Student  """
 
 
 tags:
