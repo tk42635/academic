@@ -79,7 +79,8 @@ subtitle = ""
 * [2017] The Second Prize of Beihang University Physics Tournament
 -	[2017] School Excellent Student Cadres of Beihang University    
 
- 
+<br/>  
+
 *	[2018] Technological Innovation Scholarship  
 -	[2017, 2018] Learning Excellence Scholarship  
 *	[2017, 2018] Social Work Scholarship   
