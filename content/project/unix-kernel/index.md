@@ -3,6 +3,11 @@ title: Unix Kernel
 date: 2020-09-02T07:24:14.029Z
 draft: false
 featured: false
+authors:
+  - De Huo
+  - Shengsi Huang
+  - Lijian Cai
+  - Feng Chi
 tags:
   - C
   - Unix Shell
