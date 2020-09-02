@@ -8,7 +8,7 @@ tags:
   - Unix Shell
   - Multi-Thread
   - Memory Management
-external_link: https://derichuo.com/projects
+external_link: https://derichuo.com/project/unix-kernel
 links:
   - name: code
     url: https://github.com/tk42635/WeenixKernel
