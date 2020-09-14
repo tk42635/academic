@@ -6,6 +6,7 @@ featured: true
 authors:
   - De Huo
 tags:
+  - JavaScript
   - React
   - React Native
   - Redux
