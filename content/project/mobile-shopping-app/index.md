@@ -10,12 +10,12 @@ tags:
   - React Native
   - Redux
   - HTTP
-external_link: https://derichuo.com/projects/mobile-shopping-app
+external_link: https://derichuo.com/project/mobile-shopping-app
 links:
   - name: video
     url: https://drive.google.com/file/d/1t_vFBQAf6JcLbnwwe2SikF1lNuvhUwLa/view?usp=sharing
 image:
-  filename: img_3095.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
