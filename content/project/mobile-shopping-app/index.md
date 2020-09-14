@@ -14,6 +14,8 @@ external_link: https://derichuo.com/project/mobile-shopping-app
 links:
   - name: video
     url: https://drive.google.com/file/d/1t_vFBQAf6JcLbnwwe2SikF1lNuvhUwLa/view?usp=sharing
+  - name: code
+    url: https://github.com/tk42635/MobileShoppingApp
 image:
   filename: featured.png
   focal_point: Smart
