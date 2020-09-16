@@ -23,5 +23,5 @@ image:
 ---
 * Conducted research on dense stereo SLAM in dynamic surroundings with RTAB-MAP on the basis of Visual Odometry.
 * Added Optical Flow as well as YOLO for auxiliary support to detect moving objects in frames and ruled them out when extracting feature points and mapping.
-* Performed testing on embedded mapping and navigation algorithm on a robot car with Nvidia TX2.
+* Performed testing of real-time Octo-tree mapping and navigation algorithms in ROS on Nvidia TX2.
 * Supervised by [Prof. Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en)
