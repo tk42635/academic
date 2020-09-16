@@ -63,7 +63,7 @@ subtitle = ""
 
 **Tools & Libraries:** ROS, PyTorch, OpenCV, OpenMP, PCL, RTAB-MAP, ORB-SLAM, ArduPilot, PX4, Git, Docker, Ajax, jQuery, AngularJS, React, MySQL.
 
-**Others:** Numerical Integral and Differential, Embedded System Control, Dynamics Analysis and Simulation(Adams, Fluent).
+**Others:** Socket Programming, Numerical Integral and Differential, Embedded System Control, Dynamics Analysis and Simulation(Adams, Fluent).
 
 
 
