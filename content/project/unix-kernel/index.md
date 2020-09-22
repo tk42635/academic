@@ -2,7 +2,7 @@
 title: Unix Kernel
 date: 2020-09-02T07:24:14.029Z
 draft: false
-featured: false
+featured: true
 authors:
   - De Huo
   - Shengsi Huang
@@ -18,7 +18,7 @@ links:
   - name: code
     url: https://github.com/tk42635/WeenixKernel
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
