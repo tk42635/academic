@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
+  * Built a multi-layer ROS map with regions and waypoints visualized in Arora based on TypeScript and React.
   * Tracked and visualized body part motion trajectory in decaying pattern with Dynamic-Reconfiguration in ROS.
   * Processed THÖR dataset to display multiple moving persons’ 3D point cloud and head orientation in real time.
   * Reproduced part work of [*Bayesian Estimator for Partial Trajectory Alignment*](http://www.roboticsproceedings.org/rss15/p80.pdf) to train a model for behavior recognition.
@@ -48,10 +49,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Implemented inference process of neural networks in C++ and improved executing efficiency by using [Mobile AI Compute Engine](https://github.com/XiaoMi/mace).
-  * Accelerated neural networks on mobile platforms and ARMs such as RK3399 and Raspberry Pi.
-  * Developed fast multi-thread video stabilization algorithms based on Kalman Filter, Gaussian Filter and Visual Odometry and benchmarked algorithms with PSNR and MAE metrics.
-  * Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.
+  * Implemented C++ inference process of neural networks and improved code efficiency by 40% through [Mobile AI Compute Engine](https://github.com/XiaoMi/mace).
+  * Deployed neural networks on mobile ARM platforms such as RK3399, Raspberry Pi and other SoCs.
+ 	* Developed a multi-thread fast video stabilization algorithm based on Kalman Filter and Gaussian Filter (Avg FPS: 149).
+ 	* Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.
+
 
   """
   
@@ -67,6 +69,7 @@ date_format = "Jan 2006"
   
   * Researched on omni-directional copters to decouple the relation between multi-copters’ posture and movement.
   * Proposed collectively a novel flight control algorithm based on quarternion theory and 8 spatial vectors.
+  *	Produced an indoor Octocopter with cubic carbon fiber frame and 8 aerial brushless motors capable of reverse rotation.
   * Achieved highly-precise indoor localization and long-time spot hovering without floating by using [Pozyx](https://www.pozyx.io/) platform.
 
   """
