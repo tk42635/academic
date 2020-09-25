@@ -50,8 +50,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Implemented C++ inference process of neural networks and improved code efficiency by 40% through [Mobile AI Compute Engine](https://github.com/XiaoMi/mace).  
-  * Deployed neural networks on mobile ARM platforms such as RK3399, Raspberry Pi and other SoCs.  
- 	* Developed a multi-thread fast video stabilization algorithm based on Kalman Filter and Gaussian Filter (Avg FPS: 149).  
+  * Deployed neural networks on mobile ARM platforms such as RK3399, Raspberry Pi and other SoCs.
+  * Developed a multi-thread fast video stabilization algorithm based on Kalman Filter and Gaussian Filter (Avg FPS: 149).  
  	* Contrasted multiple human face detection algorithms’ performance (Dlib, libfacedetection, Arcsoft SDK, etc.) on ARMs.  
 
 
