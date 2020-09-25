@@ -61,8 +61,7 @@ subtitle = ""
 
 **Programming Languages:** C/C++, Java, JavaScript, JSX, Python, HTML/CSS, Unix Shell, SQL.
 
-**Tools & Libraries:** ROS, PyTorch, OpenCV, OpenMP, Git, Docker, Ajax, jQuery, AngularJS, React, MySQL, MongoDB, Hadoop,  
-
+**Tools & Libraries:** ROS, PyTorch, OpenCV, OpenMP, Git, Docker, Ajax, jQuery, AngularJS, React, MySQL, MongoDB, Hadoop, 
 Django, Flask, scikit-learn, Pandas, SciPy, socket,  RTAB-MAP, ORB-SLAM, Ardupilot, PX4, PCL, AWS, GCP, Microsoft Azure
 
 
