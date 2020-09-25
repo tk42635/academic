@@ -64,5 +64,7 @@ subtitle = ""
 **Tools & Libraries:** ROS, PyTorch, OpenCV, OpenMP, Git, Docker, Ajax, jQuery, AngularJS, React, MySQL, MongoDB, Hadoop, 
 Django, Flask, scikit-learn, Pandas, SciPy, socket,  RTAB-MAP, ORB-SLAM, Ardupilot, PX4, PCL, AWS, GCP, Microsoft Azure
 
+**Others:** Numerical Integral and Differential, Embedded System Control, Dynamics Analysis and Simulation
+
 
 
