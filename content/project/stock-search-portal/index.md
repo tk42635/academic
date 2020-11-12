@@ -9,7 +9,7 @@ tags:
   - TypeScript
   - Angular10
   - Express.js
-external_link: https://derichuo.com/projects/stock-search-portal
+external_link: https://derichuo.com/project/stock-search-portal
 links:
   - name: website
     url: http://csci571-dehuo.us-east-1.elasticbeanstalk.com/
