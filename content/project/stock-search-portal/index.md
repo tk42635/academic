@@ -18,3 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+* Acquired and visualized historical stock price and news in Angular by sending requests to cloud-based Express.js backend.
+* Devised nav bar and input form with Bootstrap and autocompleted and validated user input of searching and buying stocks.
+* Developed multiple components to separate functionality and respectively render different pages with distinct routes.
