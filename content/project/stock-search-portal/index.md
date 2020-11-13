@@ -12,7 +12,7 @@ tags:
 external_link: https://derichuo.com/project/stock-search-portal
 links:
   - name: website
-    url: http://csci571-dehuo.us-east-1.elasticbeanstalk.com/
+    url: http://csci571-hw8-dehuo-2.us-east-1.elasticbeanstalk.com/
 image:
   filename: featured.png
   focal_point: Smart
