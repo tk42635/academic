@@ -15,6 +15,8 @@ links:
     url: http://csci571-hw8-dehuo-2.us-east-1.elasticbeanstalk.com/
   - name: code
     url: https://github.com/tk42635/StockSearchPortal
+  - name: code - Android App
+    url: https://github.com/tk42635/StockSerachAndroidApp
 image:
   filename: featured.png
   focal_point: Smart
