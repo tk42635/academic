@@ -13,10 +13,10 @@ links:
     url: https://tk42635.github.io/Game-From-Home/
   - url: https://www.youtube.com/watch?v=1p1U-d3lXUk
     name: Video
-  - url: https://docs.google.com/document/d/1pt2efjQ-XOLYmlfKQLVMjumMW9slJL2TYqAQr5NXcbg/edit#
+  - url: https://docs.google.com/document/d/1pt2efjQ-XOLYmlfKQLVMjumMW9slJL2TYqAQr5NXcbg/edit?usp=sharing
     name: Design Doc
   - name: Code
-    url: "https://github.com/tk42635/Game-From-Home "
+    url: https://github.com/tk42635/Game-From-Home
 image:
   filename: featured.png
   focal_point: Smart
