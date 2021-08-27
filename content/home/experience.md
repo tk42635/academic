@@ -24,9 +24,27 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Software Engineer Intern"
+  company = "Amazon.com, Inc."
+  company_url = "https://amazon.com/"
+  location = "Seattle, WA"
+  date_start = "2021-05-24"
+  date_end = "2021-08-13"
+  description = """
+  Responsibilities include:
+  
+  * Migrated and separated a JSP + Spring web application into two newly-constructed end-to-end services.
+  * Built the frontend in TypeScript with React/Katal, Redux and Saga on S3 and delivered static assets through CloudFront.
+  * Built the middle tier as an ARest service with Guice in Java on HEX-AWS, intended for fetching dependency metadata from DynamoDB and for propagating rectified requests & responses.
+  * Established two complete repository-to-prod deployment pipelines and integrated the fully-functional services with backend.
+  * Unit-tested all code with line coverage over 90% by using Jest and Enzyme for front end and Mockito for middle tier.
+
+  """
+
+[[experience]]
+  title = "Software Engineer Intern"
   company = "Semio"
   company_url = "https://semio.ai/"
-  location = "Los Angeles"
+  location = "Los Angeles, CA"
   date_start = "2020-05-01"
   date_end = "2020-08-21"
   description = """
@@ -61,7 +79,7 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Institute of Automation and Control, Beihang University"
   company_url = "http://asee.buaa.edu.cn/"
-  location = "Beijing"
+  location = "Beijing, China"
   date_start = "2019-03-20"
   date_end = "2019-07-01"
   description = """
